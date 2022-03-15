@@ -15,8 +15,10 @@ body{
     display: grid;
     grid-template-columns: 1fr 3fr;
 }
-/* Dashboard */
 
+
+/* Dashboard */
+/*  START    */
 
 
 
@@ -58,8 +60,12 @@ a{
     font-weight:  900;;
 }
 
+/* Dashboard */
+/*     END   */
 
 
+/* CONTENT*/
+/* START */
 
 
 
